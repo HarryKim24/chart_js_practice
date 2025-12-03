@@ -71,3 +71,4 @@ export default defineConfig([
   },
 ])
 ```
+# chart_js_practice
