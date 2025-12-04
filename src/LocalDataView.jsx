@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-// 우리가 만든 재사용 가능한 차트 부품을 가져옵니다. 경로(../../) 주의!
+import { useState } from 'react';
 import BarChart from "./components/BarChart"; 
 import LineChart from "./components/LineChart";
 
